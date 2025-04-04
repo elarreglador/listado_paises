@@ -1,0 +1,50 @@
+1,🇦🇫,Afghanistan,Afganistán
+2,🇦🇱,Albania,Albania
+3,🇩🇿,Algeria,Argelia
+4,🇦🇩,Andorra,Andorra
+5,🇦🇴,Angola,Angola
+6,🇦🇬,Antigua and Barbuda,Antigua y Barbuda
+7,🇦🇷,Argentina,Argentina
+8,🇦🇲,Armenia,Armenia
+9,🇦🇺,Australia,Australia
+10,🇦🇹,Austria,Austria
+11,🇦🇿,Azerbaijan,Azerbaiyán
+12,🇧🇸,Bahamas,Bahamas
+13,🇧🇭,Bahrain,Baréin
+14,🇧🇩,Bangladesh,Bangladés
+15,🇧🇧,Barbados,Barbados
+16,🇧🇾,Belarus,Bielorrusia
+17,🇧🇪,Belgium,Bélgica
+18,🇧🇿,Belize,Belice
+19,🇧🇯,Benin,Benín
+20,🇧🇹,Bhutan,Bután
+21,🇧🇴,Bolivia,Bolivia
+22,🇧🇦,Bosnia and Herzegovina,Bosnia y Herzegovina
+23,🇧🇼,Botswana,Botsuana
+24,🇧🇷,Brazil,Brasil
+25,🇧🇳,Brunei,Brunéi
+26,🇧🇬,Bulgaria,Bulgaria
+27,🇧🇫,Burkina Faso,Burkina Faso
+28,🇧🇮,Burundi,Burundi
+29,🇨🇻,Cabo Verde,Cabo Verde
+30,🇰🇭,Cambodia,Camboya
+31,🇨🇲,Cameroon,Camerún
+32,🇨🇦,Canada,Canadá
+33,🇨🇫,Central African Republic,República Centroafricana
+34,🇹🇩,Chad,Chad
+35,🇨🇱,Chile,Chile
+36,🇨🇳,China,China
+37,🇨🇴,Colombia,Colombia
+38,🇰🇲,Comoros,Comoras
+39,🇨🇬,Congo,República del Congo
+40,🇨🇩,Congo (DRC),República Democrática del Congo
+41,🇨🇷,Costa Rica,Costa Rica
+42,🇭🇷,Croatia,Croacia
+43,🇨🇺,Cuba,Cuba
+44,🇨🇾,Cyprus,Chipre
+45,🇨🇿,Czechia,Chequia
+46,🇩🇰,Denmark,Dinamarca
+47,🇩🇯,Djibouti,Yibuti
+48,🇩🇲,Dominica,Dominica
+49,🇩🇴,Dominican Republic,República Dominicana
+50,🇪🇨,Ecuador,Ecuador
