@@ -48,3 +48,75 @@
 48,🇩🇲,Dominica,Dominica
 49,🇩🇴,Dominican Republic,República Dominicana
 50,🇪🇨,Ecuador,Ecuador
+51,🇪🇬,Egypt,Egipto
+52,🇸🇻,El Salvador,El Salvador
+53,🇬🇶,Equatorial Guinea,Guinea Ecuatorial
+54,🇪🇷,Eritrea,Eritrea
+55,🇪🇪,Estonia,Estonia
+56,🇸🇿,Eswatini,Esuatini
+57,🇪🇹,Ethiopia,Etiopía
+58,🇫🇯,Fiji,Fiyi
+59,🇫🇮,Finland,Finlandia
+60,🇫🇷,France,Francia
+61,🇬🇦,Gabon,Gabón
+62,🇬🇲,Gambia,Gambia
+63,🇬🇪,Georgia,Georgia
+64,🇩🇪,Germany,Alemania
+65,🇬🇭,Ghana,Ghana
+66,🇬🇷,Greece,Grecia
+67,🇬🇩,Grenada,Granada
+68,🇬🇹,Guatemala,Guatemala
+69,🇬🇳,Guinea,Guinea
+70,🇬🇼,Guinea-Bissau,Guinea-Bisáu
+71,🇬🇾,Guyana,Guyana
+72,🇭🇹,Haiti,Haití
+73,🇭🇳,Honduras,Honduras
+74,🇭🇺,Hungary,Hungría
+75,🇮🇸,Iceland,Islandia
+76,🇮🇳,India,India
+77,🇮🇩,Indonesia,Indonesia
+78,🇮🇷,Iran,Irán
+79,🇮🇶,Iraq,Irak
+80,🇮🇪,Ireland,Irlanda
+81,🇮🇱,Israel,Israel
+82,🇮🇹,Italy,Italia
+83,🇯🇲,Jamaica,Jamaica
+84,🇯🇵,Japan,Japón
+85,🇯🇴,Jordan,Jordania
+86,🇰🇿,Kazakhstan,Kazajistán
+87,🇰🇪,Kenya,Kenia
+88,🇰🇮,Kiribati,Kiribati
+89,🇰🇼,Kuwait,Kuwait
+90,🇰🇬,Kyrgyzstan,Kirguistán
+91,🇱🇦,Laos,Laos
+92,🇱🇻,Latvia,Letonia
+93,🇱🇧,Lebanon,Líbano
+94,🇱🇸,Lesotho,Lesoto
+95,🇱🇷,Liberia,Liberia
+96,🇱🇾,Libya,Libia
+97,🇱🇮,Liechtenstein,Liechtenstein
+98,🇱🇹,Lithuania,Lituania
+99,🇱🇺,Luxembourg,Luxemburgo
+100,🇲🇬,Madagascar,Madagascar
+101,🇲🇼,Malawi,Malaui
+102,🇲🇾,Malaysia,Malasia
+103,🇲🇻,Maldives,Maldivas
+104,🇲🇱,Mali,Malí
+105,🇲🇹,Malta,Malta
+106,🇲🇭,Marshall Islands,Islas Marshall
+107,🇲🇷,Mauritania,Mauritania
+108,🇲🇺,Mauritius,Mauricio
+109,🇲🇽,Mexico,México
+110,🇫🇲,Micronesia,Micronesia
+111,🇲🇩,Moldova,Moldavia
+112,🇲🇨,Monaco,Mónaco
+113,🇲🇳,Mongolia,Mongolia
+114,🇲🇪,Montenegro,Montenegro
+115,🇲🇦,Morocco,Marruecos
+116,🇲🇿,Mozambique,Mozambique
+117,🇲🇲,Myanmar (Burma),Birmania
+118,🇳🇦,Namibia,Namibia
+119,🇳🇷,Nauru,Nauru
+120,🇳🇵,Nepal,Nepal
+121,🇳🇱,Netherlands,Países Bajos
+122,🇳🇿,New Zealand,Nueva Zelanda
